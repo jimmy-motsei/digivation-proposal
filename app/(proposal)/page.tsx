@@ -13,9 +13,9 @@ export default function ProposalOverviewPage() {
         className="prose max-w-none text-center"
       >
         <h1>Digivation Website Build Proposal</h1>
-        <h2>
-          A modern, high-performance web experience to reposition Digivation as a
-          focused, credible ICT partner in the South African market.
+        <h2 className="font-normal">
+          A modern, high-performance web experience to further position Digivation as a
+          focused, credible ICT partner in the South African market space.
         </h2>
       </motion.div>
     </div>

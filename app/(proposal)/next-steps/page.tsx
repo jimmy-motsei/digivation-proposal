@@ -36,7 +36,7 @@ export default function NextStepsPage() {
                     and predictable.
                 </p>
 
-                <div className="not-prose space-y-4">
+                <div className="not-prose mt-4 space-y-4">
                     <motion.div
                         variants={cardVariant}
                         initial="hidden"
@@ -200,7 +200,7 @@ export default function NextStepsPage() {
                     sides.
                 </p>
 
-                <div className="not-prose grid gap-6 md:grid-cols-2">
+                <div className="not-prose mt-4 grid gap-6 md:grid-cols-2">
                     <motion.div
                         variants={cardVariant}
                         initial="hidden"
